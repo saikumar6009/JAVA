@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class composite 
+class comp 
 {
  public static void main(String[] args)
  {

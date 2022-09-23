@@ -16,7 +16,7 @@ try
   System.out.println("enter the number:");
   number=  sc.nextInt();
 if(number<0){
-     System.out.println("Invalid due to negative values");
+     System.out.println("Invalid");
      }
 else{
   fact = factorial(number);   
@@ -25,7 +25,7 @@ else{
 }
 catch(Exception e)
 {
-   System.out.println("Invalid due to floating point");
+   System.out.println("Invalid");
 }   
  }  
-} 
+}
